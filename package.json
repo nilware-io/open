@@ -1,0 +1,26 @@
+{
+  "name": "open",
+  "version": "0.0.0",
+  "description": "open service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilware-io/open.git"
+  },
+  "keywords": [
+    "open",
+    "service"
+  ],
+  "author": "open@teams.nilware.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilware-io/open/issues"
+  },
+  "homepage": "https://github.com/nilware-io/open#readme",
+  "devDependencies": {
+    "assemblyscript": "^0.20.16"
+  }
+}
